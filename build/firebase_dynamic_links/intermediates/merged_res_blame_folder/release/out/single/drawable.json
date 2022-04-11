@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    }
+]

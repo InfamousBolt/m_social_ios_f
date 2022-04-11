@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\google_sign_in\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\b8a918dd178b58fbf61be0f6cc65f77c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\google_sign_in\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\b8a918dd178b58fbf61be0f6cc65f77c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\google_sign_in\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\b8a918dd178b58fbf61be0f6cc65f77c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

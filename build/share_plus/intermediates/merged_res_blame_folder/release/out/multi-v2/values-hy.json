@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

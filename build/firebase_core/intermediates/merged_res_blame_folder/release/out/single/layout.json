@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_core\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\5e02ddc0dfda010a8a7a8cead0f24f31\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]

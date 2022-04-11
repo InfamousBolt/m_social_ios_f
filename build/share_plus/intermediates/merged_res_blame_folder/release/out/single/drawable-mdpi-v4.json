@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\share_plus\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\ae3d7ae4493d11c21b25c5d58a0c4179\\transformed\\core-1.7.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

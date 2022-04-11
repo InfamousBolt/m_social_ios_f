@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\91891\\Downloads\\codecanyon-xwukXm9l-flutterfire-social-messenger_new\\flutter_social-master-new\\build\\firebase_dynamic_links\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\91891\\.gradle\\caches\\transforms-3\\81d8f5fe52fb2f5afe7fb604b57cb70f\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
